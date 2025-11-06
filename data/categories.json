@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mens-shirts",
+    "name": "Men's Shirts",
+    "slug": "mens-shirts",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80"
+  },
+  {
+    "id": "mens-trousers",
+    "name": "Men's Trousers",
+    "slug": "mens-trousers",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=80"
+  },
+  {
+    "id": "mens-jackets",
+    "name": "Men's Jackets",
+    "slug": "mens-jackets",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80"
+  },
+  {
+    "id": "womens-dresses",
+    "name": "Women's Dresses",
+    "slug": "womens-dresses",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=80"
+  },
+  {
+    "id": "womens-tops",
+    "name": "Women's Tops",
+    "slug": "womens-tops",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80"
+  },
+  {
+    "id": "womens-skirts",
+    "name": "Women's Skirts",
+    "slug": "womens-skirts",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800&q=80"
+  },
+  {
+    "id": "kids-tshirts",
+    "name": "Kids T-Shirts",
+    "slug": "kids-tshirts",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80"
+  },
+  {
+    "id": "kids-shorts",
+    "name": "Kids Shorts",
+    "slug": "kids-shorts",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&q=80"
+  },
+  {
+    "id": "unisex-hoodies",
+    "name": "Unisex Hoodies",
+    "slug": "unisex-hoodies",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80"
+  },
+  {
+    "id": "sportswear",
+    "name": "Sportswear",
+    "slug": "sportswear",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80"
+  }
+]

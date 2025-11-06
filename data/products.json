@@ -1,0 +1,2251 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Ralph Lauren Modern Shirt",
+    "brand": "Ralph Lauren",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Brown",
+      "Purple"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 3.2,
+    "reviews": 177,
+    "features": [
+      "Moisture wicking",
+      "Pre-shrunk fabric",
+      "Premium quality fabric",
+      "Wrinkle resistant",
+      "Stylish design"
+    ]
+  },
+  {
+    "id": "prod-002",
+    "name": "Balenciaga Essential Shirt",
+    "brand": "Balenciaga",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Red",
+      "White",
+      "Black"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4,
+    "reviews": 155,
+    "features": [
+      "Easy care - Machine washable",
+      "Durable stitching",
+      "Stylish design",
+      "Moisture wicking",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-003",
+    "name": "Louis Vuitton Signature Shirt",
+    "brand": "Louis Vuitton",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Red",
+      "Beige",
+      "Brown"
+    ],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 428,
+    "features": [
+      "Durable stitching",
+      "Fade resistant colors",
+      "Comfortable fit",
+      "Premium quality fabric",
+      "Pre-shrunk fabric"
+    ]
+  },
+  {
+    "id": "prod-004",
+    "name": "Gucci Signature Shirt",
+    "brand": "Gucci",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "L",
+      "XS",
+      "XL",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Pink"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 76,
+    "features": [
+      "Fade resistant colors",
+      "Pre-shrunk fabric",
+      "Moisture wicking",
+      "Comfortable fit",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-005",
+    "name": "Versace Elite Shirt",
+    "brand": "Versace",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Beige",
+      "Blue"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 202,
+    "features": [
+      "Easy care - Machine washable",
+      "Pre-shrunk fabric",
+      "Stylish design",
+      "Durable stitching",
+      "Premium quality fabric"
+    ]
+  },
+  {
+    "id": "prod-006",
+    "name": "Adidas Essential Shirt",
+    "brand": "Adidas",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Red",
+      "Purple"
+    ],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 407,
+    "features": [
+      "Easy care - Machine washable",
+      "Comfortable fit",
+      "Premium quality fabric",
+      "Fade resistant colors",
+      "Stylish design"
+    ]
+  },
+  {
+    "id": "prod-007",
+    "name": "Off-White Essential Trouser",
+    "brand": "Off-White",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "XXL",
+      "XS",
+      "S",
+      "M",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Beige",
+      "Purple"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.6,
+    "reviews": 52,
+    "features": [
+      "Easy care - Machine washable",
+      "Premium quality fabric",
+      "Wrinkle resistant",
+      "Stylish design",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-008",
+    "name": "Balenciaga Vintage Trouser",
+    "brand": "Balenciaga",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "M",
+      "S",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy",
+      "Yellow"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 4,
+    "reviews": 509,
+    "features": [
+      "Easy care - Machine washable",
+      "Moisture wicking",
+      "Stylish design",
+      "Comfortable fit",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-009",
+    "name": "Calvin Klein Elite Trouser",
+    "brand": "Calvin Klein",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "XS",
+      "S",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Beige"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 3.7,
+    "reviews": 431,
+    "features": [
+      "Breathable material",
+      "Durable stitching",
+      "Easy care - Machine washable",
+      "Comfortable fit",
+      "Premium quality fabric"
+    ]
+  },
+  {
+    "id": "prod-010",
+    "name": "Nike Ultimate Trouser",
+    "brand": "Nike",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy",
+      "Red",
+      "Yellow"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 3.9,
+    "reviews": 270,
+    "features": [
+      "Breathable material",
+      "Premium quality fabric",
+      "Durable stitching",
+      "Easy care - Machine washable",
+      "Pre-shrunk fabric"
+    ]
+  },
+  {
+    "id": "prod-011",
+    "name": "Off-White Essential Trouser",
+    "brand": "Off-White",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "S",
+      "L",
+      "XS"
+    ],
+    "colors": [
+      "White",
+      "Navy",
+      "Grey"
+    ],
+    "material": "Cotton Blend",
+    "inStock": false,
+    "rating": 4.8,
+    "reviews": 109,
+    "features": [
+      "Fade resistant colors",
+      "Moisture wicking",
+      "Comfortable fit",
+      "Pre-shrunk fabric",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-012",
+    "name": "H&M Essential Trouser",
+    "brand": "H&M",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+    ],
+    "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Beige"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.4,
+    "reviews": 345,
+    "features": [
+      "Durable stitching",
+      "Fade resistant colors",
+      "Moisture wicking",
+      "Stylish design",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-013",
+    "name": "Armani Premium Jacket",
+    "brand": "Armani",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "XXL",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Yellow",
+      "Black"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.1,
+    "reviews": 442,
+    "features": [
+      "Durable stitching",
+      "Moisture wicking",
+      "Stylish design",
+      "Comfortable fit",
+      "Pre-shrunk fabric"
+    ]
+  },
+  {
+    "id": "prod-014",
+    "name": "Versace Vintage Jacket",
+    "brand": "Versace",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "S",
+      "XS",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Brown"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 142,
+    "features": [
+      "Moisture wicking",
+      "Easy care - Machine washable",
+      "Durable stitching",
+      "Premium quality fabric",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-015",
+    "name": "Off-White Essential Jacket",
+    "brand": "Off-White",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "M",
+      "XXL",
+      "S",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Green",
+      "Blue",
+      "Beige"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3,
+    "reviews": 467,
+    "features": [
+      "Durable stitching",
+      "Breathable material",
+      "Stylish design",
+      "Comfortable fit",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-016",
+    "name": "Versace Premium Jacket",
+    "brand": "Versace",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "XXL",
+      "XL",
+      "L",
+      "M",
+      "S"
+    ],
+    "colors": [
+      "Green",
+      "Black",
+      "Beige"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.9,
+    "reviews": 469,
+    "features": [
+      "Fade resistant colors",
+      "Stylish design",
+      "Comfortable fit",
+      "Moisture wicking",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-017",
+    "name": "H&M Premium Jacket",
+    "brand": "H&M",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "XL",
+      "S",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Beige",
+      "Black",
+      "Brown",
+      "White"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 452,
+    "features": [
+      "Breathable material",
+      "Comfortable fit",
+      "Premium quality fabric",
+      "Fade resistant colors",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-018",
+    "name": "Ralph Lauren Signature Jacket",
+    "brand": "Ralph Lauren",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+    ],
+    "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
+    "sizes": [
+      "S",
+      "XXL",
+      "L",
+      "XS",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Grey",
+      "Navy"
+    ],
+    "material": "Polyester",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 251,
+    "features": [
+      "Easy care - Machine washable",
+      "Durable stitching",
+      "Breathable material",
+      "Stylish design",
+      "Moisture wicking"
+    ]
+  },
+  {
+    "id": "prod-019",
+    "name": "Gucci Signature Dress",
+    "brand": "Gucci",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "S",
+      "XS",
+      "XL",
+      "M",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Navy",
+      "Black",
+      "White",
+      "Red"
+    ],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 231,
+    "features": [
+      "Breathable material",
+      "Premium quality fabric",
+      "Durable stitching",
+      "Wrinkle resistant",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-020",
+    "name": "Balenciaga Signature Dress",
+    "brand": "Balenciaga",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "L",
+      "XL",
+      "S",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Pink",
+      "Blue"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 411,
+    "features": [
+      "Durable stitching",
+      "Premium quality fabric",
+      "Breathable material",
+      "Easy care - Machine washable",
+      "Comfortable fit"
+    ]
+  },
+  {
+    "id": "prod-021",
+    "name": "Levi's Premium Dress",
+    "brand": "Levi's",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "XS",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Pink",
+      "Yellow",
+      "Red"
+    ],
+    "material": "Denim",
+    "inStock": false,
+    "rating": 3.8,
+    "reviews": 206,
+    "features": [
+      "Stylish design",
+      "Moisture wicking",
+      "Durable stitching",
+      "Fade resistant colors",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-022",
+    "name": "Gucci Modern Dress",
+    "brand": "Gucci",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "XL",
+      "XXL",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "White",
+      "Yellow"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.2,
+    "reviews": 113,
+    "features": [
+      "Stylish design",
+      "Pre-shrunk fabric",
+      "Comfortable fit",
+      "Breathable material",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-023",
+    "name": "Off-White Essential Dress",
+    "brand": "Off-White",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "XS",
+      "XL",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Green",
+      "Purple",
+      "Brown"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 446,
+    "features": [
+      "Comfortable fit",
+      "Easy care - Machine washable",
+      "Breathable material",
+      "Wrinkle resistant",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-024",
+    "name": "Calvin Klein Elite Dress",
+    "brand": "Calvin Klein",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+    ],
+    "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
+    "sizes": [
+      "XS",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Grey",
+      "Pink",
+      "Black",
+      "Navy"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 231,
+    "features": [
+      "Durable stitching",
+      "Pre-shrunk fabric",
+      "Stylish design",
+      "Premium quality fabric",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-025",
+    "name": "Off-White Essential Top",
+    "brand": "Off-White",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "XL",
+      "L",
+      "M",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Navy",
+      "Yellow"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 5,
+    "reviews": 182,
+    "features": [
+      "Breathable material",
+      "Premium quality fabric",
+      "Stylish design",
+      "Fade resistant colors",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-026",
+    "name": "Puma Classic Top",
+    "brand": "Puma",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "S",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Purple",
+      "Brown"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 82,
+    "features": [
+      "Premium quality fabric",
+      "Durable stitching",
+      "Wrinkle resistant",
+      "Comfortable fit",
+      "Moisture wicking"
+    ]
+  },
+  {
+    "id": "prod-027",
+    "name": "Ralph Lauren Modern Top",
+    "brand": "Ralph Lauren",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Yellow",
+      "Navy"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 266,
+    "features": [
+      "Breathable material",
+      "Easy care - Machine washable",
+      "Stylish design",
+      "Moisture wicking",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-028",
+    "name": "Zara Elite Top",
+    "brand": "Zara",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "XS",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Yellow",
+      "Pink",
+      "Blue",
+      "Grey"
+    ],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 44,
+    "features": [
+      "Durable stitching",
+      "Fade resistant colors",
+      "Pre-shrunk fabric",
+      "Premium quality fabric",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-029",
+    "name": "Levi's Classic Top",
+    "brand": "Levi's",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "XL",
+      "L",
+      "XXL",
+      "M",
+      "XS",
+      "S"
+    ],
+    "colors": [
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 3.6,
+    "reviews": 276,
+    "features": [
+      "Moisture wicking",
+      "Premium quality fabric",
+      "Durable stitching",
+      "Breathable material",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-030",
+    "name": "Zara Premium Top",
+    "brand": "Zara",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
+    "sizes": [
+      "L",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Grey",
+      "Purple",
+      "Navy",
+      "White"
+    ],
+    "material": "Silk",
+    "inStock": false,
+    "rating": 4.4,
+    "reviews": 254,
+    "features": [
+      "Breathable material",
+      "Easy care - Machine washable",
+      "Moisture wicking",
+      "Fade resistant colors",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-031",
+    "name": "Balenciaga Modern Skirt",
+    "brand": "Balenciaga",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "L",
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "White",
+      "Green",
+      "Grey"
+    ],
+    "material": "Spandex Mix",
+    "inStock": false,
+    "rating": 4.3,
+    "reviews": 257,
+    "features": [
+      "Premium quality fabric",
+      "Durable stitching",
+      "Easy care - Machine washable",
+      "Fade resistant colors",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-032",
+    "name": "Levi's Ultimate Skirt",
+    "brand": "Levi's",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "XS",
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Blue",
+      "Navy"
+    ],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 83,
+    "features": [
+      "Premium quality fabric",
+      "Comfortable fit",
+      "Fade resistant colors",
+      "Durable stitching",
+      "Pre-shrunk fabric"
+    ]
+  },
+  {
+    "id": "prod-033",
+    "name": "Nike Vintage Skirt",
+    "brand": "Nike",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "XL",
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Pink",
+      "Grey"
+    ],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 5,
+    "reviews": 415,
+    "features": [
+      "Premium quality fabric",
+      "Pre-shrunk fabric",
+      "Wrinkle resistant",
+      "Easy care - Machine washable",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-034",
+    "name": "Ralph Lauren Ultimate Skirt",
+    "brand": "Ralph Lauren",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "XS",
+      "XL",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Beige"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 3.9,
+    "reviews": 33,
+    "features": [
+      "Durable stitching",
+      "Comfortable fit",
+      "Fade resistant colors",
+      "Stylish design",
+      "Pre-shrunk fabric"
+    ]
+  },
+  {
+    "id": "prod-035",
+    "name": "Zara Vintage Skirt",
+    "brand": "Zara",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "XS",
+      "S",
+      "XXL",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Brown",
+      "Purple",
+      "Pink"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.6,
+    "reviews": 326,
+    "features": [
+      "Moisture wicking",
+      "Comfortable fit",
+      "Fade resistant colors",
+      "Premium quality fabric",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-036",
+    "name": "Armani Premium Skirt",
+    "brand": "Armani",
+    "category": "Women's Skirts",
+    "categorySlug": "womens-skirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+    ],
+    "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
+    "sizes": [
+      "L",
+      "M",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "colors": [
+      "Blue",
+      "Grey"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 3.2,
+    "reviews": 222,
+    "features": [
+      "Wrinkle resistant",
+      "Premium quality fabric",
+      "Breathable material",
+      "Durable stitching",
+      "Stylish design"
+    ]
+  },
+  {
+    "id": "prod-037",
+    "name": "Puma Classic T-Shirt",
+    "brand": "Puma",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.1,
+    "reviews": 397,
+    "features": [
+      "Durable stitching",
+      "Fade resistant colors",
+      "Easy care - Machine washable",
+      "Comfortable fit",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-038",
+    "name": "Gucci Premium T-Shirt",
+    "brand": "Gucci",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "colors": [
+      "Blue",
+      "Purple",
+      "Navy"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 3.2,
+    "reviews": 470,
+    "features": [
+      "Fade resistant colors",
+      "Easy care - Machine washable",
+      "Durable stitching",
+      "Moisture wicking",
+      "Premium quality fabric"
+    ]
+  },
+  {
+    "id": "prod-039",
+    "name": "Puma Elite T-Shirt",
+    "brand": "Puma",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "XL",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Black",
+      "Beige",
+      "Navy"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 473,
+    "features": [
+      "Moisture wicking",
+      "Premium quality fabric",
+      "Stylish design",
+      "Pre-shrunk fabric",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-040",
+    "name": "Gucci Classic T-Shirt",
+    "brand": "Gucci",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "M",
+      "XS",
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Pink",
+      "Black",
+      "White",
+      "Navy"
+    ],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 3.5,
+    "reviews": 468,
+    "features": [
+      "Moisture wicking",
+      "Wrinkle resistant",
+      "Durable stitching",
+      "Easy care - Machine washable",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-041",
+    "name": "Ralph Lauren Classic T-Shirt",
+    "brand": "Ralph Lauren",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "L",
+      "XS",
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "Black",
+      "Grey",
+      "Pink",
+      "Beige"
+    ],
+    "material": "Polyester",
+    "inStock": true,
+    "rating": 3.6,
+    "reviews": 191,
+    "features": [
+      "Premium quality fabric",
+      "Moisture wicking",
+      "Fade resistant colors",
+      "Durable stitching",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-042",
+    "name": "Balenciaga Classic T-Shirt",
+    "brand": "Balenciaga",
+    "category": "Kids T-Shirts",
+    "categorySlug": "kids-tshirts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+    ],
+    "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
+    "sizes": [
+      "XS",
+      "S",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 4,
+    "reviews": 486,
+    "features": [
+      "Moisture wicking",
+      "Premium quality fabric",
+      "Breathable material",
+      "Wrinkle resistant",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-043",
+    "name": "Off-White Vintage Shorts",
+    "brand": "Off-White",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "M",
+      "S",
+      "L",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Yellow",
+      "Grey"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 301,
+    "features": [
+      "Breathable material",
+      "Stylish design",
+      "Moisture wicking",
+      "Durable stitching",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-044",
+    "name": "Levi's Vintage Shorts",
+    "brand": "Levi's",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "XXL",
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Blue",
+      "Yellow",
+      "Navy",
+      "Purple"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 53,
+    "features": [
+      "Stylish design",
+      "Easy care - Machine washable",
+      "Premium quality fabric",
+      "Comfortable fit",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-045",
+    "name": "Versace Signature Shorts",
+    "brand": "Versace",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "XS",
+      "L",
+      "XL",
+      "S",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Beige"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.7,
+    "reviews": 159,
+    "features": [
+      "Premium quality fabric",
+      "Durable stitching",
+      "Moisture wicking",
+      "Stylish design",
+      "Fade resistant colors"
+    ]
+  },
+  {
+    "id": "prod-046",
+    "name": "Nike Modern Shorts",
+    "brand": "Nike",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "M",
+      "S",
+      "XS",
+      "L"
+    ],
+    "colors": [
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.9,
+    "reviews": 274,
+    "features": [
+      "Durable stitching",
+      "Pre-shrunk fabric",
+      "Fade resistant colors",
+      "Stylish design",
+      "Moisture wicking"
+    ]
+  },
+  {
+    "id": "prod-047",
+    "name": "H&M Modern Shorts",
+    "brand": "H&M",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "XS",
+      "XL",
+      "S",
+      "M",
+      "XXL",
+      "L"
+    ],
+    "colors": [
+      "Navy",
+      "Brown",
+      "Grey"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 239,
+    "features": [
+      "Pre-shrunk fabric",
+      "Breathable material",
+      "Wrinkle resistant",
+      "Fade resistant colors",
+      "Premium quality fabric"
+    ]
+  },
+  {
+    "id": "prod-048",
+    "name": "Levi's Vintage Shorts",
+    "brand": "Levi's",
+    "category": "Kids Shorts",
+    "categorySlug": "kids-shorts",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+    ],
+    "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
+    "sizes": [
+      "M",
+      "XS",
+      "XL",
+      "S",
+      "L",
+      "XXL"
+    ],
+    "colors": [
+      "Red",
+      "Beige"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 500,
+    "features": [
+      "Comfortable fit",
+      "Moisture wicking",
+      "Easy care - Machine washable",
+      "Stylish design",
+      "Durable stitching"
+    ]
+  },
+  {
+    "id": "prod-049",
+    "name": "Calvin Klein Premium Hoodie",
+    "brand": "Calvin Klein",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "L",
+      "XS",
+      "XXL",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Navy",
+      "Black",
+      "Blue",
+      "Red"
+    ],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 316,
+    "features": [
+      "Durable stitching",
+      "Premium quality fabric",
+      "Pre-shrunk fabric",
+      "Stylish design",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-050",
+    "name": "Puma Ultimate Hoodie",
+    "brand": "Puma",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "M",
+      "XS",
+      "XL",
+      "XXL",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Beige",
+      "White"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 334,
+    "features": [
+      "Premium quality fabric",
+      "Easy care - Machine washable",
+      "Fade resistant colors",
+      "Breathable material",
+      "Stylish design"
+    ]
+  },
+  {
+    "id": "prod-051",
+    "name": "Nike Premium Hoodie",
+    "brand": "Nike",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "L",
+      "S",
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "Purple",
+      "Beige",
+      "Green",
+      "Red"
+    ],
+    "material": "Wool Blend",
+    "inStock": false,
+    "rating": 3,
+    "reviews": 487,
+    "features": [
+      "Breathable material",
+      "Easy care - Machine washable",
+      "Stylish design",
+      "Comfortable fit",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-052",
+    "name": "Versace Elite Hoodie",
+    "brand": "Versace",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Red",
+      "Blue",
+      "Beige"
+    ],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 354,
+    "features": [
+      "Stylish design",
+      "Durable stitching",
+      "Premium quality fabric",
+      "Fade resistant colors",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-053",
+    "name": "Puma Elite Hoodie",
+    "brand": "Puma",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "XXL",
+      "XS",
+      "XL"
+    ],
+    "colors": [
+      "Grey",
+      "Navy",
+      "Blue"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 3.3,
+    "reviews": 340,
+    "features": [
+      "Comfortable fit",
+      "Breathable material",
+      "Fade resistant colors",
+      "Wrinkle resistant",
+      "Stylish design"
+    ]
+  },
+  {
+    "id": "prod-054",
+    "name": "H&M Vintage Hoodie",
+    "brand": "H&M",
+    "category": "Unisex Hoodies",
+    "categorySlug": "unisex-hoodies",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
+    "sizes": [
+      "XS",
+      "L",
+      "S",
+      "XL",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Green",
+      "Purple",
+      "Blue",
+      "Red"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3,
+    "reviews": 316,
+    "features": [
+      "Breathable material",
+      "Stylish design",
+      "Durable stitching",
+      "Wrinkle resistant",
+      "Moisture wicking"
+    ]
+  },
+  {
+    "id": "prod-055",
+    "name": "Puma Premium Athletic Wear",
+    "brand": "Puma",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "XS",
+      "S",
+      "XXL",
+      "L",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 3.8,
+    "reviews": 384,
+    "features": [
+      "Moisture wicking",
+      "Pre-shrunk fabric",
+      "Fade resistant colors",
+      "Comfortable fit",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-056",
+    "name": "Puma Classic Athletic Wear",
+    "brand": "Puma",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "White"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 406,
+    "features": [
+      "Stylish design",
+      "Premium quality fabric",
+      "Durable stitching",
+      "Breathable material",
+      "Wrinkle resistant"
+    ]
+  },
+  {
+    "id": "prod-057",
+    "name": "Balenciaga Classic Athletic Wear",
+    "brand": "Balenciaga",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "S",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 3.4,
+    "reviews": 160,
+    "features": [
+      "Breathable material",
+      "Stylish design",
+      "Premium quality fabric",
+      "Fade resistant colors",
+      "Easy care - Machine washable"
+    ]
+  },
+  {
+    "id": "prod-058",
+    "name": "Calvin Klein Signature Athletic Wear",
+    "brand": "Calvin Klein",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "XL",
+      "L",
+      "M",
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Black",
+      "Beige",
+      "White",
+      "Pink"
+    ],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 3.3,
+    "reviews": 160,
+    "features": [
+      "Moisture wicking",
+      "Premium quality fabric",
+      "Durable stitching",
+      "Easy care - Machine washable",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-059",
+    "name": "Adidas Ultimate Athletic Wear",
+    "brand": "Adidas",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "S",
+      "L",
+      "XXL",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Red",
+      "Black",
+      "Yellow"
+    ],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 69,
+    "features": [
+      "Easy care - Machine washable",
+      "Comfortable fit",
+      "Stylish design",
+      "Premium quality fabric",
+      "Breathable material"
+    ]
+  },
+  {
+    "id": "prod-060",
+    "name": "Tommy Hilfiger Signature Athletic Wear",
+    "brand": "Tommy Hilfiger",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1000,
+    "images": [
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+    ],
+    "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
+    "sizes": [
+      "XS",
+      "L",
+      "XXL",
+      "S"
+    ],
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "material": "Polyester",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 439,
+    "features": [
+      "Breathable material",
+      "Fade resistant colors",
+      "Wrinkle resistant",
+      "Moisture wicking",
+      "Easy care - Machine washable"
+    ]
+  }
+]
