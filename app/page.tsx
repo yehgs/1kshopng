@@ -1,4 +1,4 @@
-import { HeroSlider } from '@/components/HeroSlider';
+import  HeroSlider  from '@/components/HeroSlider';
 import { CategoryCarousel } from '@/components/CategoryCarousel';
 import { ProductCard } from '@/components/ProductCard';
 import { BrandCard } from '@/components/BrandCard';
