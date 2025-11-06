@@ -1,13 +1,23 @@
+'use client';
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { Product } from '@/types/product';
 import { Star, ShoppingCart } from 'lucide-react';
+import { useCart } from '@/contexts/CartContext';
 
 interface ProductCardProps {
   product: Product;
 }
 
 export function ProductCard({ product }: ProductCardProps) {
+  const { addToCart } = useCart();
+
+  const handleAddToCart = (e: React.MouseEvent) => {
+    e.preventDefault();
+    addToCart(product);
+  };
+
   return (
     <Link href={`/products/${product.id}`} className="group">
       <div className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300">
@@ -59,7 +69,11 @@ export function ProductCard({ product }: ProductCardProps) {
             </div>
           </div>
           
-          <button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-semibold py-2 rounded-md flex items-center justify-center gap-2 transition-colors">
+          <button 
+            onClick={handleAddToCart}
+            disabled={!product.inStock}
+            className="w-full bg-primary hover:bg-primary/90 disabled:bg-gray-300 disabled:cursor-not-allowed text-primary-foreground font-semibold py-2 rounded-md flex items-center justify-center gap-2 transition-colors"
+          >
             <ShoppingCart className="w-4 h-4" />
             Add to Cart
           </button>
