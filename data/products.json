@@ -7,36 +7,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Grey",
-      "Brown",
-      "Purple"
-    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Grey", "Brown", "Purple"],
     "material": "Denim",
     "inStock": true,
     "rating": 3.2,
     "reviews": 177,
-    "features": [
-      "Moisture wicking",
-      "Pre-shrunk fabric",
-      "Premium quality fabric",
-      "Wrinkle resistant",
-      "Stylish design"
-    ]
+    "features": ["Moisture wicking", "Pre-shrunk fabric", "Premium quality fabric", "Wrinkle resistant", "Stylish design"]
   },
   {
     "id": "prod-002",
@@ -46,33 +26,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ],
-    "colors": [
-      "Red",
-      "White",
-      "Black"
-    ],
+    "sizes": ["L", "M", "S"],
+    "colors": ["Red", "White", "Black"],
     "material": "Denim",
     "inStock": true,
     "rating": 4,
     "reviews": 155,
-    "features": [
-      "Easy care - Machine washable",
-      "Durable stitching",
-      "Stylish design",
-      "Moisture wicking",
-      "Wrinkle resistant"
-    ]
+    "features": ["Easy care - Machine washable", "Durable stitching", "Stylish design", "Moisture wicking", "Wrinkle resistant"]
   },
   {
     "id": "prod-003",
@@ -82,36 +45,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "M",
-      "L",
-      "XL",
-      "S",
-      "XXL"
-    ],
-    "colors": [
-      "Black",
-      "Red",
-      "Beige",
-      "Brown"
-    ],
+    "sizes": ["M", "L", "XL", "S", "XXL"],
+    "colors": ["Black", "Red", "Beige", "Brown"],
     "material": "100% Cotton",
     "inStock": true,
     "rating": 3.8,
     "reviews": 428,
-    "features": [
-      "Durable stitching",
-      "Fade resistant colors",
-      "Comfortable fit",
-      "Premium quality fabric",
-      "Pre-shrunk fabric"
-    ]
+    "features": ["Durable stitching", "Fade resistant colors", "Comfortable fit", "Premium quality fabric", "Pre-shrunk fabric"]
   },
   {
     "id": "prod-004",
@@ -121,35 +64,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
       "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "L",
-      "XS",
-      "XL",
-      "M",
-      "S",
-      "XXL"
-    ],
-    "colors": [
-      "Grey",
-      "Pink"
-    ],
+    "sizes": ["L", "XS", "XL", "M", "S", "XXL"],
+    "colors": ["Grey", "Pink"],
     "material": "Denim",
     "inStock": true,
     "rating": 4.3,
     "reviews": 76,
-    "features": [
-      "Fade resistant colors",
-      "Pre-shrunk fabric",
-      "Moisture wicking",
-      "Comfortable fit",
-      "Breathable material"
-    ]
+    "features": ["Fade resistant colors", "Pre-shrunk fabric", "Moisture wicking", "Comfortable fit", "Breathable material"]
   },
   {
     "id": "prod-005",
@@ -159,32 +83,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+      "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Beige",
-      "Blue"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Beige", "Blue"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 4.6,
     "reviews": 202,
-    "features": [
-      "Easy care - Machine washable",
-      "Pre-shrunk fabric",
-      "Stylish design",
-      "Durable stitching",
-      "Premium quality fabric"
-    ]
+    "features": ["Easy care - Machine washable", "Pre-shrunk fabric", "Stylish design", "Durable stitching", "Premium quality fabric"]
   },
   {
     "id": "prod-006",
@@ -194,34 +102,16 @@
     "categorySlug": "mens-shirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
-      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
-      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+      "https://images.unsplash.com/photo-1598032895397-b9b9bc861674?w=800"
     ],
     "description": "A stylish and comfortable shirt perfect for any occasion. Features premium fabric and excellent stitching.",
-    "sizes": [
-      "S",
-      "L",
-      "XL",
-      "XS",
-      "XXL"
-    ],
-    "colors": [
-      "Red",
-      "Purple"
-    ],
+    "sizes": ["S", "L", "XL", "XS", "XXL"],
+    "colors": ["Red", "Purple"],
     "material": "100% Cotton",
     "inStock": true,
     "rating": 4.9,
     "reviews": 407,
-    "features": [
-      "Easy care - Machine washable",
-      "Comfortable fit",
-      "Premium quality fabric",
-      "Fade resistant colors",
-      "Stylish design"
-    ]
+    "features": ["Easy care - Machine washable", "Comfortable fit", "Premium quality fabric", "Fade resistant colors", "Stylish design"]
   },
   {
     "id": "prod-007",
@@ -231,35 +121,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
-      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "XXL",
-      "XS",
-      "S",
-      "M",
-      "XL",
-      "L"
-    ],
-    "colors": [
-      "Beige",
-      "Purple"
-    ],
+    "sizes": ["XXL", "XS", "S", "M", "XL", "L"],
+    "colors": ["Beige", "Purple"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.6,
     "reviews": 52,
-    "features": [
-      "Easy care - Machine washable",
-      "Premium quality fabric",
-      "Wrinkle resistant",
-      "Stylish design",
-      "Fade resistant colors"
-    ]
+    "features": ["Easy care - Machine washable", "Premium quality fabric", "Wrinkle resistant", "Stylish design", "Fade resistant colors"]
   },
   {
     "id": "prod-008",
@@ -269,34 +140,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
-      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "M",
-      "S",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Navy",
-      "Yellow"
-    ],
+    "sizes": ["M", "S", "L", "XL", "XXL"],
+    "colors": ["Navy", "Yellow"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 4,
     "reviews": 509,
-    "features": [
-      "Easy care - Machine washable",
-      "Moisture wicking",
-      "Stylish design",
-      "Comfortable fit",
-      "Fade resistant colors"
-    ]
+    "features": ["Easy care - Machine washable", "Moisture wicking", "Stylish design", "Comfortable fit", "Fade resistant colors"]
   },
   {
     "id": "prod-009",
@@ -306,34 +159,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
-      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "XS",
-      "S",
-      "XL",
-      "L"
-    ],
-    "colors": [
-      "Grey",
-      "Navy",
-      "Beige"
-    ],
+    "sizes": ["XS", "S", "XL", "L"],
+    "colors": ["Grey", "Navy", "Beige"],
     "material": "Denim",
     "inStock": true,
     "rating": 3.7,
     "reviews": 431,
-    "features": [
-      "Breathable material",
-      "Durable stitching",
-      "Easy care - Machine washable",
-      "Comfortable fit",
-      "Premium quality fabric"
-    ]
+    "features": ["Breathable material", "Durable stitching", "Easy care - Machine washable", "Comfortable fit", "Premium quality fabric"]
   },
   {
     "id": "prod-010",
@@ -343,36 +178,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
       "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Navy",
-      "Red",
-      "Yellow"
-    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Navy", "Red", "Yellow"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 3.9,
     "reviews": 270,
-    "features": [
-      "Breathable material",
-      "Premium quality fabric",
-      "Durable stitching",
-      "Easy care - Machine washable",
-      "Pre-shrunk fabric"
-    ]
+    "features": ["Breathable material", "Premium quality fabric", "Durable stitching", "Easy care - Machine washable", "Pre-shrunk fabric"]
   },
   {
     "id": "prod-011",
@@ -382,33 +197,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
-      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "S",
-      "L",
-      "XS"
-    ],
-    "colors": [
-      "White",
-      "Navy",
-      "Grey"
-    ],
+    "sizes": ["S", "L", "XS"],
+    "colors": ["White", "Navy", "Grey"],
     "material": "Cotton Blend",
     "inStock": false,
     "rating": 4.8,
     "reviews": 109,
-    "features": [
-      "Fade resistant colors",
-      "Moisture wicking",
-      "Comfortable fit",
-      "Pre-shrunk fabric",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Fade resistant colors", "Moisture wicking", "Comfortable fit", "Pre-shrunk fabric", "Easy care - Machine washable"]
   },
   {
     "id": "prod-012",
@@ -418,36 +216,16 @@
     "categorySlug": "mens-trousers",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
-      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800",
-      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
-      "https://images.unsplash.com/photo-1511105043137-132b89b75d0b?w=800"
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800"
     ],
     "description": "Comfortable and durable trousers with a modern fit. Perfect for both casual and formal wear.",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Grey",
-      "Navy",
-      "Beige"
-    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": ["Grey", "Navy", "Beige"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.4,
     "reviews": 345,
-    "features": [
-      "Durable stitching",
-      "Fade resistant colors",
-      "Moisture wicking",
-      "Stylish design",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Durable stitching", "Fade resistant colors", "Moisture wicking", "Stylish design", "Easy care - Machine washable"]
   },
   {
     "id": "prod-013",
@@ -457,32 +235,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
-      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "XXL",
-      "XS",
-      "M"
-    ],
-    "colors": [
-      "Yellow",
-      "Black"
-    ],
+    "sizes": ["XXL", "XS", "M"],
+    "colors": ["Yellow", "Black"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.1,
     "reviews": 442,
-    "features": [
-      "Durable stitching",
-      "Moisture wicking",
-      "Stylish design",
-      "Comfortable fit",
-      "Pre-shrunk fabric"
-    ]
+    "features": ["Durable stitching", "Moisture wicking", "Stylish design", "Comfortable fit", "Pre-shrunk fabric"]
   },
   {
     "id": "prod-014",
@@ -492,35 +254,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
-      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "S",
-      "XS",
-      "M",
-      "L",
-      "XXL"
-    ],
-    "colors": [
-      "Grey",
-      "Navy",
-      "Brown"
-    ],
+    "sizes": ["S", "XS", "M", "L", "XXL"],
+    "colors": ["Grey", "Navy", "Brown"],
     "material": "Denim",
     "inStock": true,
     "rating": 4.9,
     "reviews": 142,
-    "features": [
-      "Moisture wicking",
-      "Easy care - Machine washable",
-      "Durable stitching",
-      "Premium quality fabric",
-      "Wrinkle resistant"
-    ]
+    "features": ["Moisture wicking", "Easy care - Machine washable", "Durable stitching", "Premium quality fabric", "Wrinkle resistant"]
   },
   {
     "id": "prod-015",
@@ -530,35 +273,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
-      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "M",
-      "XXL",
-      "S",
-      "XL",
-      "L"
-    ],
-    "colors": [
-      "Green",
-      "Blue",
-      "Beige"
-    ],
+    "sizes": ["M", "XXL", "S", "XL", "L"],
+    "colors": ["Green", "Blue", "Beige"],
     "material": "Linen",
     "inStock": true,
     "rating": 3,
     "reviews": 467,
-    "features": [
-      "Durable stitching",
-      "Breathable material",
-      "Stylish design",
-      "Comfortable fit",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Durable stitching", "Breathable material", "Stylish design", "Comfortable fit", "Easy care - Machine washable"]
   },
   {
     "id": "prod-016",
@@ -568,35 +292,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
       "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "XXL",
-      "XL",
-      "L",
-      "M",
-      "S"
-    ],
-    "colors": [
-      "Green",
-      "Black",
-      "Beige"
-    ],
+    "sizes": ["XXL", "XL", "L", "M", "S"],
+    "colors": ["Green", "Black", "Beige"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.9,
     "reviews": 469,
-    "features": [
-      "Fade resistant colors",
-      "Stylish design",
-      "Comfortable fit",
-      "Moisture wicking",
-      "Breathable material"
-    ]
+    "features": ["Fade resistant colors", "Stylish design", "Comfortable fit", "Moisture wicking", "Breathable material"]
   },
   {
     "id": "prod-017",
@@ -606,35 +311,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
-      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+      "https://images.unsplash.com/photo-1544923408-75c5cef46f14?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "XL",
-      "S",
-      "M",
-      "XXL"
-    ],
-    "colors": [
-      "Beige",
-      "Black",
-      "Brown",
-      "White"
-    ],
+    "sizes": ["XL", "S", "M", "XXL"],
+    "colors": ["Beige", "Black", "Brown", "White"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 4.6,
     "reviews": 452,
-    "features": [
-      "Breathable material",
-      "Comfortable fit",
-      "Premium quality fabric",
-      "Fade resistant colors",
-      "Durable stitching"
-    ]
+    "features": ["Breathable material", "Comfortable fit", "Premium quality fabric", "Fade resistant colors", "Durable stitching"]
   },
   {
     "id": "prod-018",
@@ -644,35 +330,16 @@
     "categorySlug": "mens-jackets",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
-      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
-      "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800"
+      "https://images.unsplash.com/photo-1548126032-079eccfe3f48?w=800"
     ],
     "description": "Stay warm and stylish with this premium jacket. Features quality materials and timeless design.",
-    "sizes": [
-      "S",
-      "XXL",
-      "L",
-      "XS",
-      "XL",
-      "M"
-    ],
-    "colors": [
-      "Grey",
-      "Navy"
-    ],
+    "sizes": ["S", "XXL", "L", "XS", "XL", "M"],
+    "colors": ["Grey", "Navy"],
     "material": "Polyester",
     "inStock": true,
     "rating": 4.5,
     "reviews": 251,
-    "features": [
-      "Easy care - Machine washable",
-      "Durable stitching",
-      "Breathable material",
-      "Stylish design",
-      "Moisture wicking"
-    ]
+    "features": ["Easy care - Machine washable", "Durable stitching", "Breathable material", "Stylish design", "Moisture wicking"]
   },
   {
     "id": "prod-019",
@@ -682,37 +349,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "S",
-      "XS",
-      "XL",
-      "M",
-      "L",
-      "XXL"
-    ],
-    "colors": [
-      "Navy",
-      "Black",
-      "White",
-      "Red"
-    ],
+    "sizes": ["S", "XS", "XL", "M", "L", "XXL"],
+    "colors": ["Navy", "Black", "White", "Red"],
     "material": "Silk",
     "inStock": true,
     "rating": 4.1,
     "reviews": 231,
-    "features": [
-      "Breathable material",
-      "Premium quality fabric",
-      "Durable stitching",
-      "Wrinkle resistant",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Breathable material", "Premium quality fabric", "Durable stitching", "Wrinkle resistant", "Easy care - Machine washable"]
   },
   {
     "id": "prod-020",
@@ -722,35 +368,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "L",
-      "XL",
-      "S",
-      "XS",
-      "M"
-    ],
-    "colors": [
-      "Purple",
-      "Pink",
-      "Blue"
-    ],
+    "sizes": ["L", "XL", "S", "XS", "M"],
+    "colors": ["Purple", "Pink", "Blue"],
     "material": "Denim",
     "inStock": true,
     "rating": 4.1,
     "reviews": 411,
-    "features": [
-      "Durable stitching",
-      "Premium quality fabric",
-      "Breathable material",
-      "Easy care - Machine washable",
-      "Comfortable fit"
-    ]
+    "features": ["Durable stitching", "Premium quality fabric", "Breathable material", "Easy care - Machine washable", "Comfortable fit"]
   },
   {
     "id": "prod-021",
@@ -760,34 +387,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "XS",
-      "S",
-      "XL"
-    ],
-    "colors": [
-      "Black",
-      "Pink",
-      "Yellow",
-      "Red"
-    ],
+    "sizes": ["XS", "S", "XL"],
+    "colors": ["Black", "Pink", "Yellow", "Red"],
     "material": "Denim",
     "inStock": false,
     "rating": 3.8,
     "reviews": 206,
-    "features": [
-      "Stylish design",
-      "Moisture wicking",
-      "Durable stitching",
-      "Fade resistant colors",
-      "Wrinkle resistant"
-    ]
+    "features": ["Stylish design", "Moisture wicking", "Durable stitching", "Fade resistant colors", "Wrinkle resistant"]
   },
   {
     "id": "prod-022",
@@ -797,33 +406,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
       "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "XL",
-      "XXL",
-      "XS",
-      "S"
-    ],
-    "colors": [
-      "White",
-      "Yellow"
-    ],
+    "sizes": ["XL", "XXL", "XS", "S"],
+    "colors": ["White", "Yellow"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.2,
     "reviews": 113,
-    "features": [
-      "Stylish design",
-      "Pre-shrunk fabric",
-      "Comfortable fit",
-      "Breathable material",
-      "Wrinkle resistant"
-    ]
+    "features": ["Stylish design", "Pre-shrunk fabric", "Comfortable fit", "Breathable material", "Wrinkle resistant"]
   },
   {
     "id": "prod-023",
@@ -833,34 +425,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "XS",
-      "XL",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Green",
-      "Purple",
-      "Brown"
-    ],
+    "sizes": ["XS", "XL", "S", "M"],
+    "colors": ["Green", "Purple", "Brown"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 4.4,
     "reviews": 446,
-    "features": [
-      "Comfortable fit",
-      "Easy care - Machine washable",
-      "Breathable material",
-      "Wrinkle resistant",
-      "Durable stitching"
-    ]
+    "features": ["Comfortable fit", "Easy care - Machine washable", "Breathable material", "Wrinkle resistant", "Durable stitching"]
   },
   {
     "id": "prod-024",
@@ -870,34 +444,16 @@
     "categorySlug": "womens-dresses",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
-      "https://images.unsplash.com/photo-1612423284934-2850a4ea6b0f?w=800",
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800"
+      "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=800"
     ],
     "description": "Elegant and fashionable dress that makes you stand out. Perfect fit and beautiful design.",
-    "sizes": [
-      "XS",
-      "S",
-      "L"
-    ],
-    "colors": [
-      "Grey",
-      "Pink",
-      "Black",
-      "Navy"
-    ],
+    "sizes": ["XS", "S", "L"],
+    "colors": ["Grey", "Pink", "Black", "Navy"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 4.1,
     "reviews": 231,
-    "features": [
-      "Durable stitching",
-      "Pre-shrunk fabric",
-      "Stylish design",
-      "Premium quality fabric",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Durable stitching", "Pre-shrunk fabric", "Stylish design", "Premium quality fabric", "Easy care - Machine washable"]
   },
   {
     "id": "prod-025",
@@ -907,36 +463,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "XL",
-      "L",
-      "M",
-      "S",
-      "XXL"
-    ],
-    "colors": [
-      "White",
-      "Black",
-      "Navy",
-      "Yellow"
-    ],
+    "sizes": ["XL", "L", "M", "S", "XXL"],
+    "colors": ["White", "Black", "Navy", "Yellow"],
     "material": "Linen",
     "inStock": true,
     "rating": 5,
     "reviews": 182,
-    "features": [
-      "Breathable material",
-      "Premium quality fabric",
-      "Stylish design",
-      "Fade resistant colors",
-      "Durable stitching"
-    ]
+    "features": ["Breathable material", "Premium quality fabric", "Stylish design", "Fade resistant colors", "Durable stitching"]
   },
   {
     "id": "prod-026",
@@ -946,33 +482,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "S",
-      "M",
-      "XXL",
-      "XL"
-    ],
-    "colors": [
-      "Purple",
-      "Brown"
-    ],
+    "sizes": ["S", "M", "XXL", "XL"],
+    "colors": ["Purple", "Brown"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.8,
     "reviews": 82,
-    "features": [
-      "Premium quality fabric",
-      "Durable stitching",
-      "Wrinkle resistant",
-      "Comfortable fit",
-      "Moisture wicking"
-    ]
+    "features": ["Premium quality fabric", "Durable stitching", "Wrinkle resistant", "Comfortable fit", "Moisture wicking"]
   },
   {
     "id": "prod-027",
@@ -982,33 +501,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Yellow",
-      "Navy"
-    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Yellow", "Navy"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 3.8,
     "reviews": 266,
-    "features": [
-      "Breathable material",
-      "Easy care - Machine washable",
-      "Stylish design",
-      "Moisture wicking",
-      "Durable stitching"
-    ]
+    "features": ["Breathable material", "Easy care - Machine washable", "Stylish design", "Moisture wicking", "Durable stitching"]
   },
   {
     "id": "prod-028",
@@ -1018,34 +520,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
       "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "XS",
-      "S",
-      "XXL"
-    ],
-    "colors": [
-      "Yellow",
-      "Pink",
-      "Blue",
-      "Grey"
-    ],
+    "sizes": ["XS", "S", "XXL"],
+    "colors": ["Yellow", "Pink", "Blue", "Grey"],
     "material": "100% Cotton",
     "inStock": true,
     "rating": 3.8,
     "reviews": 44,
-    "features": [
-      "Durable stitching",
-      "Fade resistant colors",
-      "Pre-shrunk fabric",
-      "Premium quality fabric",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Durable stitching", "Fade resistant colors", "Pre-shrunk fabric", "Premium quality fabric", "Easy care - Machine washable"]
   },
   {
     "id": "prod-029",
@@ -1055,36 +539,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "XL",
-      "L",
-      "XXL",
-      "M",
-      "XS",
-      "S"
-    ],
-    "colors": [
-      "Red",
-      "Black",
-      "Yellow"
-    ],
+    "sizes": ["XL", "L", "XXL", "M", "XS", "S"],
+    "colors": ["Red", "Black", "Yellow"],
     "material": "Silk",
     "inStock": true,
     "rating": 3.6,
     "reviews": 276,
-    "features": [
-      "Moisture wicking",
-      "Premium quality fabric",
-      "Durable stitching",
-      "Breathable material",
-      "Wrinkle resistant"
-    ]
+    "features": ["Moisture wicking", "Premium quality fabric", "Durable stitching", "Breathable material", "Wrinkle resistant"]
   },
   {
     "id": "prod-030",
@@ -1094,34 +558,16 @@
     "categorySlug": "womens-tops",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800",
-      "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+      "https://images.unsplash.com/photo-1560769680-ba4c4b1d1cb3?w=800"
     ],
     "description": "Trendy top with comfortable fit. Perfect for everyday wear or special occasions.",
-    "sizes": [
-      "L",
-      "XXL",
-      "M"
-    ],
-    "colors": [
-      "Grey",
-      "Purple",
-      "Navy",
-      "White"
-    ],
+    "sizes": ["L", "XXL", "M"],
+    "colors": ["Grey", "Purple", "Navy", "White"],
     "material": "Silk",
     "inStock": false,
     "rating": 4.4,
     "reviews": 254,
-    "features": [
-      "Breathable material",
-      "Easy care - Machine washable",
-      "Moisture wicking",
-      "Fade resistant colors",
-      "Durable stitching"
-    ]
+    "features": ["Breathable material", "Easy care - Machine washable", "Moisture wicking", "Fade resistant colors", "Durable stitching"]
   },
   {
     "id": "prod-031",
@@ -1131,34 +577,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
-      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "L",
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "White",
-      "Green",
-      "Grey"
-    ],
+    "sizes": ["L", "XS", "S", "M"],
+    "colors": ["White", "Green", "Grey"],
     "material": "Spandex Mix",
     "inStock": false,
     "rating": 4.3,
     "reviews": 257,
-    "features": [
-      "Premium quality fabric",
-      "Durable stitching",
-      "Easy care - Machine washable",
-      "Fade resistant colors",
-      "Breathable material"
-    ]
+    "features": ["Premium quality fabric", "Durable stitching", "Easy care - Machine washable", "Fade resistant colors", "Breathable material"]
   },
   {
     "id": "prod-032",
@@ -1168,34 +596,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
-      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "XS",
-      "S",
-      "XXL",
-      "XL"
-    ],
-    "colors": [
-      "Yellow",
-      "Blue",
-      "Navy"
-    ],
+    "sizes": ["XS", "S", "XXL", "XL"],
+    "colors": ["Yellow", "Blue", "Navy"],
     "material": "Silk",
     "inStock": true,
     "rating": 4.9,
     "reviews": 83,
-    "features": [
-      "Premium quality fabric",
-      "Comfortable fit",
-      "Fade resistant colors",
-      "Durable stitching",
-      "Pre-shrunk fabric"
-    ]
+    "features": ["Premium quality fabric", "Comfortable fit", "Fade resistant colors", "Durable stitching", "Pre-shrunk fabric"]
   },
   {
     "id": "prod-033",
@@ -1205,34 +615,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
-      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "XL",
-      "XS",
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Pink",
-      "Grey"
-    ],
+    "sizes": ["XL", "XS", "S", "M", "L"],
+    "colors": ["Pink", "Grey"],
     "material": "100% Cotton",
     "inStock": true,
     "rating": 5,
     "reviews": 415,
-    "features": [
-      "Premium quality fabric",
-      "Pre-shrunk fabric",
-      "Wrinkle resistant",
-      "Easy care - Machine washable",
-      "Durable stitching"
-    ]
+    "features": ["Premium quality fabric", "Pre-shrunk fabric", "Wrinkle resistant", "Easy care - Machine washable", "Durable stitching"]
   },
   {
     "id": "prod-034",
@@ -1242,32 +634,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
       "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "XS",
-      "XL",
-      "L"
-    ],
-    "colors": [
-      "Black",
-      "Beige"
-    ],
+    "sizes": ["XS", "XL", "L"],
+    "colors": ["Black", "Beige"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 3.9,
     "reviews": 33,
-    "features": [
-      "Durable stitching",
-      "Comfortable fit",
-      "Fade resistant colors",
-      "Stylish design",
-      "Pre-shrunk fabric"
-    ]
+    "features": ["Durable stitching", "Comfortable fit", "Fade resistant colors", "Stylish design", "Pre-shrunk fabric"]
   },
   {
     "id": "prod-035",
@@ -1277,35 +653,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
-      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "XS",
-      "S",
-      "XXL",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Brown",
-      "Purple",
-      "Pink"
-    ],
+    "sizes": ["XS", "S", "XXL", "M", "L"],
+    "colors": ["Brown", "Purple", "Pink"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.6,
     "reviews": 326,
-    "features": [
-      "Moisture wicking",
-      "Comfortable fit",
-      "Fade resistant colors",
-      "Premium quality fabric",
-      "Durable stitching"
-    ]
+    "features": ["Moisture wicking", "Comfortable fit", "Fade resistant colors", "Premium quality fabric", "Durable stitching"]
   },
   {
     "id": "prod-036",
@@ -1315,34 +672,16 @@
     "categorySlug": "womens-skirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
-      "https://images.unsplash.com/photo-1551803091-e20673f15770?w=800",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
-      "https://images.unsplash.com/photo-1518622179344-1b4b8a7e4e2a?w=800"
+      "https://images.unsplash.com/photo-1583496730840-d0c15c61e1c8?w=800"
     ],
     "description": "Beautiful skirt with flattering design. Comfortable and versatile for various occasions.",
-    "sizes": [
-      "L",
-      "M",
-      "XXL",
-      "S",
-      "XL"
-    ],
-    "colors": [
-      "Blue",
-      "Grey"
-    ],
+    "sizes": ["L", "M", "XXL", "S", "XL"],
+    "colors": ["Blue", "Grey"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 3.2,
     "reviews": 222,
-    "features": [
-      "Wrinkle resistant",
-      "Premium quality fabric",
-      "Breathable material",
-      "Durable stitching",
-      "Stylish design"
-    ]
+    "features": ["Wrinkle resistant", "Premium quality fabric", "Breathable material", "Durable stitching", "Stylish design"]
   },
   {
     "id": "prod-037",
@@ -1352,35 +691,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "M",
-      "S",
-      "XL",
-      "XS",
-      "L",
-      "XXL"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
+    "sizes": ["M", "S", "XL", "XS", "L", "XXL"],
+    "colors": ["Black", "Red"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.1,
     "reviews": 397,
-    "features": [
-      "Durable stitching",
-      "Fade resistant colors",
-      "Easy care - Machine washable",
-      "Comfortable fit",
-      "Wrinkle resistant"
-    ]
+    "features": ["Durable stitching", "Fade resistant colors", "Easy care - Machine washable", "Comfortable fit", "Wrinkle resistant"]
   },
   {
     "id": "prod-038",
@@ -1390,33 +710,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "XXL",
-      "M",
-      "XL"
-    ],
-    "colors": [
-      "Blue",
-      "Purple",
-      "Navy"
-    ],
+    "sizes": ["XXL", "M", "XL"],
+    "colors": ["Blue", "Purple", "Navy"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 3.2,
     "reviews": 470,
-    "features": [
-      "Fade resistant colors",
-      "Easy care - Machine washable",
-      "Durable stitching",
-      "Moisture wicking",
-      "Premium quality fabric"
-    ]
+    "features": ["Fade resistant colors", "Easy care - Machine washable", "Durable stitching", "Moisture wicking", "Premium quality fabric"]
   },
   {
     "id": "prod-039",
@@ -1426,33 +729,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
       "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "XL",
-      "L",
-      "M"
-    ],
-    "colors": [
-      "Black",
-      "Beige",
-      "Navy"
-    ],
+    "sizes": ["XL", "L", "M"],
+    "colors": ["Black", "Beige", "Navy"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.8,
     "reviews": 473,
-    "features": [
-      "Moisture wicking",
-      "Premium quality fabric",
-      "Stylish design",
-      "Pre-shrunk fabric",
-      "Durable stitching"
-    ]
+    "features": ["Moisture wicking", "Premium quality fabric", "Stylish design", "Pre-shrunk fabric", "Durable stitching"]
   },
   {
     "id": "prod-040",
@@ -1462,35 +748,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "M",
-      "XS",
-      "XL",
-      "S"
-    ],
-    "colors": [
-      "Pink",
-      "Black",
-      "White",
-      "Navy"
-    ],
+    "sizes": ["M", "XS", "XL", "S"],
+    "colors": ["Pink", "Black", "White", "Navy"],
     "material": "Silk",
     "inStock": true,
     "rating": 3.5,
     "reviews": 468,
-    "features": [
-      "Moisture wicking",
-      "Wrinkle resistant",
-      "Durable stitching",
-      "Easy care - Machine washable",
-      "Fade resistant colors"
-    ]
+    "features": ["Moisture wicking", "Wrinkle resistant", "Durable stitching", "Easy care - Machine washable", "Fade resistant colors"]
   },
   {
     "id": "prod-041",
@@ -1500,36 +767,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+      "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "L",
-      "XS",
-      "XL",
-      "XXL",
-      "S"
-    ],
-    "colors": [
-      "Black",
-      "Grey",
-      "Pink",
-      "Beige"
-    ],
+    "sizes": ["L", "XS", "XL", "XXL", "S"],
+    "colors": ["Black", "Grey", "Pink", "Beige"],
     "material": "Polyester",
     "inStock": true,
     "rating": 3.6,
     "reviews": 191,
-    "features": [
-      "Premium quality fabric",
-      "Moisture wicking",
-      "Fade resistant colors",
-      "Durable stitching",
-      "Wrinkle resistant"
-    ]
+    "features": ["Premium quality fabric", "Moisture wicking", "Fade resistant colors", "Durable stitching", "Wrinkle resistant"]
   },
   {
     "id": "prod-042",
@@ -1539,33 +786,16 @@
     "categorySlug": "kids-tshirts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
-      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
-      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800"
+      "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?w=800"
     ],
     "description": "Classic t-shirt with soft fabric. Perfect for casual daily wear.",
-    "sizes": [
-      "XS",
-      "S",
-      "L",
-      "M"
-    ],
-    "colors": [
-      "White",
-      "Black"
-    ],
+    "sizes": ["XS", "S", "L", "M"],
+    "colors": ["White", "Black"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 4,
     "reviews": 486,
-    "features": [
-      "Moisture wicking",
-      "Premium quality fabric",
-      "Breathable material",
-      "Wrinkle resistant",
-      "Fade resistant colors"
-    ]
+    "features": ["Moisture wicking", "Premium quality fabric", "Breathable material", "Wrinkle resistant", "Fade resistant colors"]
   },
   {
     "id": "prod-043",
@@ -1575,35 +805,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "M",
-      "S",
-      "L",
-      "XL",
-      "XS",
-      "XXL"
-    ],
-    "colors": [
-      "Yellow",
-      "Grey"
-    ],
+    "sizes": ["M", "S", "L", "XL", "XS", "XXL"],
+    "colors": ["Yellow", "Grey"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 4.8,
     "reviews": 301,
-    "features": [
-      "Breathable material",
-      "Stylish design",
-      "Moisture wicking",
-      "Durable stitching",
-      "Fade resistant colors"
-    ]
+    "features": ["Breathable material", "Stylish design", "Moisture wicking", "Durable stitching", "Fade resistant colors"]
   },
   {
     "id": "prod-044",
@@ -1613,35 +824,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "XXL",
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Blue",
-      "Yellow",
-      "Navy",
-      "Purple"
-    ],
+    "sizes": ["XXL", "XS", "S", "M"],
+    "colors": ["Blue", "Yellow", "Navy", "Purple"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 4.5,
     "reviews": 53,
-    "features": [
-      "Stylish design",
-      "Easy care - Machine washable",
-      "Premium quality fabric",
-      "Comfortable fit",
-      "Breathable material"
-    ]
+    "features": ["Stylish design", "Easy care - Machine washable", "Premium quality fabric", "Comfortable fit", "Breathable material"]
   },
   {
     "id": "prod-045",
@@ -1651,35 +843,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "XS",
-      "L",
-      "XL",
-      "S",
-      "M",
-      "XXL"
-    ],
-    "colors": [
-      "Grey",
-      "Beige"
-    ],
+    "sizes": ["XS", "L", "XL", "S", "M", "XXL"],
+    "colors": ["Grey", "Beige"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.7,
     "reviews": 159,
-    "features": [
-      "Premium quality fabric",
-      "Durable stitching",
-      "Moisture wicking",
-      "Stylish design",
-      "Fade resistant colors"
-    ]
+    "features": ["Premium quality fabric", "Durable stitching", "Moisture wicking", "Stylish design", "Fade resistant colors"]
   },
   {
     "id": "prod-046",
@@ -1689,34 +862,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
       "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "M",
-      "S",
-      "XS",
-      "L"
-    ],
-    "colors": [
-      "Blue",
-      "Yellow",
-      "Green"
-    ],
+    "sizes": ["M", "S", "XS", "L"],
+    "colors": ["Blue", "Yellow", "Green"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.9,
     "reviews": 274,
-    "features": [
-      "Durable stitching",
-      "Pre-shrunk fabric",
-      "Fade resistant colors",
-      "Stylish design",
-      "Moisture wicking"
-    ]
+    "features": ["Durable stitching", "Pre-shrunk fabric", "Fade resistant colors", "Stylish design", "Moisture wicking"]
   },
   {
     "id": "prod-047",
@@ -1726,36 +881,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+      "https://images.unsplash.com/photo-1598032895397-b9b9bc861674?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "XS",
-      "XL",
-      "S",
-      "M",
-      "XXL",
-      "L"
-    ],
-    "colors": [
-      "Navy",
-      "Brown",
-      "Grey"
-    ],
+    "sizes": ["XS", "XL", "S", "M", "XXL", "L"],
+    "colors": ["Navy", "Brown", "Grey"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.8,
     "reviews": 239,
-    "features": [
-      "Pre-shrunk fabric",
-      "Breathable material",
-      "Wrinkle resistant",
-      "Fade resistant colors",
-      "Premium quality fabric"
-    ]
+    "features": ["Pre-shrunk fabric", "Breathable material", "Wrinkle resistant", "Fade resistant colors", "Premium quality fabric"]
   },
   {
     "id": "prod-048",
@@ -1765,35 +900,16 @@
     "categorySlug": "kids-shorts",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
-      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1519235624215-85175d5eb36e?w=800"
+      "https://images.unsplash.com/photo-1591369822096-ffd140ec948f?w=800"
     ],
     "description": "Comfortable shorts ideal for warm weather. Great quality and stylish design.",
-    "sizes": [
-      "M",
-      "XS",
-      "XL",
-      "S",
-      "L",
-      "XXL"
-    ],
-    "colors": [
-      "Red",
-      "Beige"
-    ],
+    "sizes": ["M", "XS", "XL", "S", "L", "XXL"],
+    "colors": ["Red", "Beige"],
     "material": "Linen",
     "inStock": true,
     "rating": 4.1,
     "reviews": 500,
-    "features": [
-      "Comfortable fit",
-      "Moisture wicking",
-      "Easy care - Machine washable",
-      "Stylish design",
-      "Durable stitching"
-    ]
+    "features": ["Comfortable fit", "Moisture wicking", "Easy care - Machine washable", "Stylish design", "Durable stitching"]
   },
   {
     "id": "prod-049",
@@ -1803,36 +919,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "L",
-      "XS",
-      "XXL",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Navy",
-      "Black",
-      "Blue",
-      "Red"
-    ],
+    "sizes": ["L", "XS", "XXL", "S", "M"],
+    "colors": ["Navy", "Black", "Blue", "Red"],
     "material": "100% Cotton",
     "inStock": true,
     "rating": 4.4,
     "reviews": 316,
-    "features": [
-      "Durable stitching",
-      "Premium quality fabric",
-      "Pre-shrunk fabric",
-      "Stylish design",
-      "Breathable material"
-    ]
+    "features": ["Durable stitching", "Premium quality fabric", "Pre-shrunk fabric", "Stylish design", "Breathable material"]
   },
   {
     "id": "prod-050",
@@ -1842,35 +938,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "M",
-      "XS",
-      "XL",
-      "XXL",
-      "L",
-      "S"
-    ],
-    "colors": [
-      "Beige",
-      "White"
-    ],
+    "sizes": ["M", "XS", "XL", "XXL", "L", "S"],
+    "colors": ["Beige", "White"],
     "material": "Denim",
     "inStock": true,
     "rating": 4.7,
     "reviews": 334,
-    "features": [
-      "Premium quality fabric",
-      "Easy care - Machine washable",
-      "Fade resistant colors",
-      "Breathable material",
-      "Stylish design"
-    ]
+    "features": ["Premium quality fabric", "Easy care - Machine washable", "Fade resistant colors", "Breathable material", "Stylish design"]
   },
   {
     "id": "prod-051",
@@ -1880,35 +957,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "L",
-      "S",
-      "XS",
-      "XXL"
-    ],
-    "colors": [
-      "Purple",
-      "Beige",
-      "Green",
-      "Red"
-    ],
+    "sizes": ["L", "S", "XS", "XXL"],
+    "colors": ["Purple", "Beige", "Green", "Red"],
     "material": "Wool Blend",
     "inStock": false,
     "rating": 3,
     "reviews": 487,
-    "features": [
-      "Breathable material",
-      "Easy care - Machine washable",
-      "Stylish design",
-      "Comfortable fit",
-      "Wrinkle resistant"
-    ]
+    "features": ["Breathable material", "Easy care - Machine washable", "Stylish design", "Comfortable fit", "Wrinkle resistant"]
   },
   {
     "id": "prod-052",
@@ -1918,33 +976,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Red",
-      "Blue",
-      "Beige"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Red", "Blue", "Beige"],
     "material": "Denim",
     "inStock": true,
     "rating": 4.6,
     "reviews": 354,
-    "features": [
-      "Stylish design",
-      "Durable stitching",
-      "Premium quality fabric",
-      "Fade resistant colors",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Stylish design", "Durable stitching", "Premium quality fabric", "Fade resistant colors", "Easy care - Machine washable"]
   },
   {
     "id": "prod-053",
@@ -1954,33 +995,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+      "https://images.unsplash.com/photo-1509942774463-acf339c37fff?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "XXL",
-      "XS",
-      "XL"
-    ],
-    "colors": [
-      "Grey",
-      "Navy",
-      "Blue"
-    ],
+    "sizes": ["XXL", "XS", "XL"],
+    "colors": ["Grey", "Navy", "Blue"],
     "material": "Linen",
     "inStock": true,
     "rating": 3.3,
     "reviews": 340,
-    "features": [
-      "Comfortable fit",
-      "Breathable material",
-      "Fade resistant colors",
-      "Wrinkle resistant",
-      "Stylish design"
-    ]
+    "features": ["Comfortable fit", "Breathable material", "Fade resistant colors", "Wrinkle resistant", "Stylish design"]
   },
   {
     "id": "prod-054",
@@ -1990,37 +1014,16 @@
     "categorySlug": "unisex-hoodies",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
-      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
-      "https://images.unsplash.com/photo-1620799139834-6b8f844fbe61?w=800",
       "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
     ],
     "description": "Cozy hoodie perfect for cool weather. Soft interior and durable exterior.",
-    "sizes": [
-      "XS",
-      "L",
-      "S",
-      "XL",
-      "M",
-      "XXL"
-    ],
-    "colors": [
-      "Green",
-      "Purple",
-      "Blue",
-      "Red"
-    ],
+    "sizes": ["XS", "L", "S", "XL", "M", "XXL"],
+    "colors": ["Green", "Purple", "Blue", "Red"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3,
     "reviews": 316,
-    "features": [
-      "Breathable material",
-      "Stylish design",
-      "Durable stitching",
-      "Wrinkle resistant",
-      "Moisture wicking"
-    ]
+    "features": ["Breathable material", "Stylish design", "Durable stitching", "Wrinkle resistant", "Moisture wicking"]
   },
   {
     "id": "prod-055",
@@ -2030,35 +1033,16 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "XS",
-      "S",
-      "XXL",
-      "L",
-      "XL",
-      "M"
-    ],
-    "colors": [
-      "Green",
-      "Yellow"
-    ],
+    "sizes": ["XS", "S", "XXL", "L", "XL", "M"],
+    "colors": ["Green", "Yellow"],
     "material": "Cotton Blend",
     "inStock": true,
     "rating": 3.8,
     "reviews": 384,
-    "features": [
-      "Moisture wicking",
-      "Pre-shrunk fabric",
-      "Fade resistant colors",
-      "Comfortable fit",
-      "Breathable material"
-    ]
+    "features": ["Moisture wicking", "Pre-shrunk fabric", "Fade resistant colors", "Comfortable fit", "Breathable material"]
   },
   {
     "id": "prod-056",
@@ -2068,35 +1052,16 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Black",
-      "Blue",
-      "White"
-    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Black", "Blue", "White"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 4.3,
     "reviews": 406,
-    "features": [
-      "Stylish design",
-      "Premium quality fabric",
-      "Durable stitching",
-      "Breathable material",
-      "Wrinkle resistant"
-    ]
+    "features": ["Stylish design", "Premium quality fabric", "Durable stitching", "Breathable material", "Wrinkle resistant"]
   },
   {
     "id": "prod-057",
@@ -2106,33 +1071,16 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "S",
-      "L",
-      "XXL",
-      "XL"
-    ],
-    "colors": [
-      "Black",
-      "White"
-    ],
+    "sizes": ["S", "L", "XXL", "XL"],
+    "colors": ["Black", "White"],
     "material": "Wool Blend",
     "inStock": true,
     "rating": 3.4,
     "reviews": 160,
-    "features": [
-      "Breathable material",
-      "Stylish design",
-      "Premium quality fabric",
-      "Fade resistant colors",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Breathable material", "Stylish design", "Premium quality fabric", "Fade resistant colors", "Easy care - Machine washable"]
   },
   {
     "id": "prod-058",
@@ -2142,36 +1090,16 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
       "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "XL",
-      "L",
-      "M",
-      "S",
-      "XS"
-    ],
-    "colors": [
-      "Black",
-      "Beige",
-      "White",
-      "Pink"
-    ],
+    "sizes": ["XL", "L", "M", "S", "XS"],
+    "colors": ["Black", "Beige", "White", "Pink"],
     "material": "Spandex Mix",
     "inStock": true,
     "rating": 3.3,
     "reviews": 160,
-    "features": [
-      "Moisture wicking",
-      "Premium quality fabric",
-      "Durable stitching",
-      "Easy care - Machine washable",
-      "Breathable material"
-    ]
+    "features": ["Moisture wicking", "Premium quality fabric", "Durable stitching", "Easy care - Machine washable", "Breathable material"]
   },
   {
     "id": "prod-059",
@@ -2181,36 +1109,16 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "S",
-      "L",
-      "XXL",
-      "XL",
-      "M"
-    ],
-    "colors": [
-      "Purple",
-      "Red",
-      "Black",
-      "Yellow"
-    ],
+    "sizes": ["S", "L", "XXL", "XL", "M"],
+    "colors": ["Purple", "Red", "Black", "Yellow"],
     "material": "Linen",
     "inStock": true,
     "rating": 4.8,
     "reviews": 69,
-    "features": [
-      "Easy care - Machine washable",
-      "Comfortable fit",
-      "Stylish design",
-      "Premium quality fabric",
-      "Breathable material"
-    ]
+    "features": ["Easy care - Machine washable", "Comfortable fit", "Stylish design", "Premium quality fabric", "Breathable material"]
   },
   {
     "id": "prod-060",
@@ -2220,32 +1128,300 @@
     "categorySlug": "sportswear",
     "price": 1000,
     "images": [
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800",
-      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800",
-      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800"
+      "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=800"
     ],
     "description": "High-performance sportswear designed for active lifestyles. Breathable and comfortable.",
-    "sizes": [
-      "XS",
-      "L",
-      "XXL",
-      "S"
-    ],
-    "colors": [
-      "White",
-      "Pink"
-    ],
+    "sizes": ["XS", "L", "XXL", "S"],
+    "colors": ["White", "Pink"],
     "material": "Polyester",
     "inStock": true,
     "rating": 4.4,
     "reviews": 439,
-    "features": [
-      "Breathable material",
-      "Fade resistant colors",
-      "Wrinkle resistant",
-      "Moisture wicking",
-      "Easy care - Machine washable"
-    ]
+    "features": ["Breathable material", "Fade resistant colors", "Wrinkle resistant", "Moisture wicking", "Easy care - Machine washable"]
+  },
+  {
+    "id": "prod-061",
+    "name": "Tommy Hilfiger Classic Polo",
+    "brand": "Tommy Hilfiger",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1200,
+    "images": [
+      "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=800"
+    ],
+    "description": "Classic polo shirt with iconic branding. Perfect for smart casual occasions.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["Navy", "White", "Red"],
+    "material": "Cotton Blend",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 312,
+    "features": ["Breathable material", "Classic fit", "Premium quality fabric", "Easy care - Machine washable", "Durable stitching"]
+  },
+  {
+    "id": "prod-062",
+    "name": "Zara Modern Blazer",
+    "brand": "Zara",
+    "category": "Men's Jackets",
+    "categorySlug": "mens-jackets",
+    "price": 1500,
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800"
+    ],
+    "description": "Sophisticated blazer for professional and formal occasions. Tailored fit with premium materials.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Navy", "Charcoal"],
+    "material": "Wool Blend",
+    "inStock": true,
+    "rating": 4.2,
+    "reviews": 178,
+    "features": ["Tailored fit", "Premium quality fabric", "Wrinkle resistant", "Professional design", "Durable stitching"]
+  },
+  {
+    "id": "prod-063",
+    "name": "Armani Silk Blouse",
+    "brand": "Armani",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 1800,
+    "images": [
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=800"
+    ],
+    "description": "Luxurious silk blouse with elegant draping. Perfect for sophisticated occasions.",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Ivory", "Black", "Burgundy"],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 145,
+    "features": ["Luxurious silk fabric", "Elegant design", "Comfortable fit", "Premium quality", "Stylish draping"]
+  },
+  {
+    "id": "prod-064",
+    "name": "Nike Air Running Shoes",
+    "brand": "Nike",
+    "category": "Footwear",
+    "categorySlug": "footwear",
+    "price": 2000,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800"
+    ],
+    "description": "High-performance running shoes with advanced cushioning technology. Built for comfort and speed.",
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "colors": ["Black", "White", "Red"],
+    "material": "Synthetic Mesh",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 892,
+    "features": ["Air cushioning", "Breathable mesh", "Lightweight design", "Durable outsole", "Performance fit"]
+  },
+  {
+    "id": "prod-065",
+    "name": "Levi's 501 Original Jeans",
+    "brand": "Levi's",
+    "category": "Men's Trousers",
+    "categorySlug": "mens-trousers",
+    "price": 1300,
+    "images": [
+      "https://images.unsplash.com/photo-1542272454315-7f6645307083?w=800"
+    ],
+    "description": "Iconic straight-fit jeans with original button fly. Timeless style and durability.",
+    "sizes": ["28", "30", "32", "34", "36", "38"],
+    "colors": ["Blue", "Black", "Light Wash"],
+    "material": "Denim",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 1245,
+    "features": ["Classic fit", "Button fly", "Premium denim", "Fade resistant", "Durable construction"]
+  },
+  {
+    "id": "prod-066",
+    "name": "Calvin Klein Underwear Set",
+    "brand": "Calvin Klein",
+    "category": "Underwear",
+    "categorySlug": "underwear",
+    "price": 800,
+    "images": [
+      "https://images.unsplash.com/photo-1566206091558-7f218b696731?w=800"
+    ],
+    "description": "Premium cotton underwear with elastic waistband. Comfort and style combined.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "White", "Grey"],
+    "material": "Cotton",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 567,
+    "features": ["Soft cotton", "Elastic waistband", "Comfortable fit", "Breathable fabric", "Premium quality"]
+  },
+  {
+    "id": "prod-067",
+    "name": "Prada Leather Handbag",
+    "brand": "Prada",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "price": 3500,
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800"
+    ],
+    "description": "Luxury leather handbag with signature Prada triangle logo. Elegant and functional.",
+    "sizes": ["One Size"],
+    "colors": ["Black", "Brown", "Burgundy"],
+    "material": "Leather",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 234,
+    "features": ["Genuine leather", "Signature logo", "Multiple compartments", "Adjustable strap", "Premium hardware"]
+  },
+  {
+    "id": "prod-068",
+    "name": "Adidas Track Pants",
+    "brand": "Adidas",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 900,
+    "images": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800"
+    ],
+    "description": "Classic track pants with iconic three stripes. Perfect for workouts or casual wear.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["Black", "Navy", "Grey"],
+    "material": "Polyester",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 678,
+    "features": ["Three stripes design", "Elastic waistband", "Side pockets", "Breathable fabric", "Tapered fit"]
+  },
+  {
+    "id": "prod-069",
+    "name": "Versace Printed Scarf",
+    "brand": "Versace",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "price": 1200,
+    "images": [
+      "https://images.unsplash.com/photo-1601924287330-1b8a5d44ed8d?w=800"
+    ],
+    "description": "Luxurious silk scarf with baroque print. Statement piece for any outfit.",
+    "sizes": ["One Size"],
+    "colors": ["Gold", "Blue", "Red"],
+    "material": "Silk",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 189,
+    "features": ["Pure silk", "Baroque print", "Versatile styling", "Premium quality", "Hand-rolled edges"]
+  },
+  {
+    "id": "prod-070",
+    "name": "H&M Cotton Cardigan",
+    "brand": "H&M",
+    "category": "Women's Tops",
+    "categorySlug": "womens-tops",
+    "price": 700,
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800"
+    ],
+    "description": "Soft cotton cardigan perfect for layering. Comfortable and versatile.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Beige", "Grey", "Navy"],
+    "material": "Cotton",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 423,
+    "features": ["Soft cotton", "Button closure", "Comfortable fit", "Easy care", "Versatile styling"]
+  },
+  {
+    "id": "prod-071",
+    "name": "Ralph Lauren Oxford Shirt",
+    "brand": "Ralph Lauren",
+    "category": "Men's Shirts",
+    "categorySlug": "mens-shirts",
+    "price": 1400,
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800"
+    ],
+    "description": "Classic Oxford shirt with button-down collar. Timeless preppy style.",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["White", "Blue", "Pink"],
+    "material": "100% Cotton",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 512,
+    "features": ["Button-down collar", "Premium cotton", "Classic fit", "Easy care", "Durable stitching"]
+  },
+  {
+    "id": "prod-072",
+    "name": "Balenciaga Triple S Sneakers",
+    "brand": "Balenciaga",
+    "category": "Footwear",
+    "categorySlug": "footwear",
+    "price": 2800,
+    "images": [
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=800"
+    ],
+    "description": "Chunky designer sneakers with triple-stacked sole. Bold statement footwear.",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["White", "Black", "Grey"],
+    "material": "Leather/Mesh",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 367,
+    "features": ["Triple sole", "Designer styling", "Premium materials", "Comfortable fit", "Statement piece"]
+  },
+  {
+    "id": "prod-073",
+    "name": "Zara Linen Summer Dress",
+    "brand": "Zara",
+    "category": "Women's Dresses",
+    "categorySlug": "womens-dresses",
+    "price": 1100,
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800"
+    ],
+    "description": "Lightweight linen dress perfect for summer. Breathable and comfortable.",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["White", "Beige", "Blue"],
+    "material": "Linen",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 289,
+    "features": ["Breathable linen", "Lightweight", "Summer ready", "Comfortable fit", "Easy care"]
+  },
+  {
+    "id": "prod-074",
+    "name": "Gucci Leather Belt",
+    "brand": "Gucci",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "price": 1600,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800"
+    ],
+    "description": "Iconic leather belt with signature GG buckle. Luxury accessory for any outfit.",
+    "sizes": ["75", "80", "85", "90", "95"],
+    "colors": ["Black", "Brown"],
+    "material": "Leather",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 445,
+    "features": ["Genuine leather", "Signature buckle", "Premium quality", "Adjustable fit", "Luxury accessory"]
+  },
+  {
+    "id": "prod-075",
+    "name": "Nike Pro Compression Tights",
+    "brand": "Nike",
+    "category": "Sportswear",
+    "categorySlug": "sportswear",
+    "price": 1100,
+    "images": [
+      "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=800"
+    ],
+    "description": "High-performance compression tights for intense workouts. Moisture-wicking and supportive.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Navy", "Grey"],
+    "material": "Spandex Mix",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 734,
+    "features": ["Compression fit", "Moisture wicking", "Breathable fabric", "Performance design", "Durable construction"]
   }
 ]

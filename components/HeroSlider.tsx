@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
@@ -10,7 +9,7 @@ const slides = [
     title: 'Everything ₦1,000',
     subtitle: 'Quality Fashion for Everyone',
     description: 'Shop premium brands at unbeatable prices',
-    image: '/placeholder-hero-1.jpg',
+    image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&q=80',
     cta: 'Shop Now'
   },
   {
@@ -18,7 +17,7 @@ const slides = [
     title: 'New Arrivals',
     subtitle: 'Latest Fashion Trends',
     description: 'Discover the newest styles from top brands',
-    image: '/placeholder-hero-2.jpg',
+    image: 'https://images.unsplash.com/photo-1445205170230-053b83016050?w=1200&q=80',
     cta: 'Explore'
   },
   {
@@ -26,12 +25,12 @@ const slides = [
     title: 'Top Brands',
     subtitle: 'Designer Collections',
     description: 'Nike, Adidas, Zara and more at ₦1,000',
-    image: '/placeholder-hero-3.jpg',
+    image: 'https://images.unsplash.com/photo-1555529902-5261145633bf?w=1200&q=80',
     cta: 'View Brands'
   }
 ];
 
-export function HeroSlider() {
+export default function HeroSlider() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
@@ -59,12 +58,10 @@ export function HeroSlider() {
             index === currentSlide ? 'translate-x-0' : 'translate-x-full'
           } ${index < currentSlide ? '-translate-x-full' : ''}`}
         >
-          <Image
+          <img
             src={slide.image}
             alt={slide.title}
-            fill
-            className="object-cover"
-            priority={index === 0}
+            className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30" />
           
@@ -72,11 +69,11 @@ export function HeroSlider() {
             <div className="container mx-auto px-4">
               <div className="max-w-2xl text-white">
                 <h2 className="text-5xl md:text-7xl font-bold mb-4">{slide.title}</h2>
-                <p className="text-2xl md:text-3xl font-semibold mb-2 text-primary">
+                <p className="text-2xl md:text-3xl font-semibold mb-2 text-yellow-400">
                   {slide.subtitle}
                 </p>
                 <p className="text-lg md:text-xl mb-6">{slide.description}</p>
-                <button className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 rounded-md text-lg font-semibold transition-colors">
+                <button className="bg-yellow-400 hover:bg-yellow-500 text-black px-8 py-3 rounded-md text-lg font-semibold transition-colors">
                   {slide.cta}
                 </button>
               </div>
@@ -109,7 +106,7 @@ export function HeroSlider() {
             key={index}
             onClick={() => setCurrentSlide(index)}
             className={`w-3 h-3 rounded-full transition-all ${
-              index === currentSlide ? 'bg-primary w-8' : 'bg-white/50'
+              index === currentSlide ? 'bg-yellow-400 w-8' : 'bg-white/50'
             }`}
             aria-label={`Go to slide ${index + 1}`}
           />
