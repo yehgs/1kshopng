@@ -5,9 +5,14 @@ import { ChevronRight } from 'lucide-react';
 import productsData from '@/data/products.json';
 import categoriesData from '@/data/categories.json';
 
-export default function CategoryPage({ params }: { params: { slug: string } }) {
-  const category = categoriesData.find(c => c.slug === params.slug);
-  const categoryProducts = productsData.filter(p => p.categorySlug === params.slug);
+interface CategoryPageProps {
+  params: Promise<{ slug: string }>;
+}
+
+export default async function CategoryPage({ params }: CategoryPageProps) {
+  const { slug } = await params;
+  const category = categoriesData.find((c) => c.slug === slug);
+  const categoryProducts = productsData.filter((p) => p.categorySlug === slug);
 
   if (!category) {
     return (
@@ -26,9 +31,13 @@ export default function CategoryPage({ params }: { params: { slug: string } }) {
       <div className="bg-white border-b">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center gap-2 text-sm text-gray-600">
-            <Link href="/" className="hover:text-primary">Home</Link>
+            <Link href="/" className="hover:text-primary">
+              Home
+            </Link>
             <ChevronRight className="w-4 h-4" />
-            <Link href="/categories" className="hover:text-primary">Categories</Link>
+            <Link href="/categories" className="hover:text-primary">
+              Categories
+            </Link>
             <ChevronRight className="w-4 h-4" />
             <span className="text-gray-900">{category.name}</span>
           </div>
@@ -51,8 +60,13 @@ export default function CategoryPage({ params }: { params: { slug: string } }) {
           </div>
         ) : (
           <div className="text-center py-16">
-            <p className="text-gray-600 text-lg">No products found in this category.</p>
-            <Link href="/products" className="mt-4 inline-block text-primary font-semibold hover:underline">
+            <p className="text-gray-600 text-lg">
+              No products found in this category.
+            </p>
+            <Link
+              href="/products"
+              className="mt-4 inline-block text-primary font-semibold hover:underline"
+            >
               Browse all products
             </Link>
           </div>

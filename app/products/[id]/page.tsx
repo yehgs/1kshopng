@@ -1,16 +1,17 @@
 'use client';
 
+import { useParams } from 'next/navigation';
 import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Star, ShoppingCart, Heart, Share2, Truck, Shield, ChevronRight } from 'lucide-react';
 import { ProductCard } from '@/components/ProductCard';
-
-// Import data
 import productsData from '@/data/products.json';
 
-export default function ProductDetailPage({ params }: { params: { id: string } }) {
-  const product = productsData.find(p => p.id === params.id);
+export default function ProductDetailPage() {
+  const { id } = useParams<{ id: string }>(); // ✅ Access dynamic route param
+  const product = productsData.find((p) => p.id === id);
+
   const [selectedImage, setSelectedImage] = useState(0);
   const [selectedSize, setSelectedSize] = useState('');
   const [selectedColor, setSelectedColor] = useState('');
@@ -28,7 +29,7 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
   }
 
   const relatedProducts = productsData
-    .filter(p => p.category === product.category && p.id !== product.id)
+    .filter((p) => p.category === product.category && p.id !== product.id)
     .slice(0, 4);
 
   return (
