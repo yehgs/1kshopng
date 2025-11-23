@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Clock, Send,Truck } from 'lucide-react';
+import { Mail, Phone, MapPin, Clock, Send, Truck } from 'lucide-react';
 
 export default function ContactPage() {
   return (
@@ -22,7 +22,7 @@ export default function ContactPage() {
             {/* Contact Information */}
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-8">Get In Touch</h2>
-              
+
               <div className="space-y-6">
                 {/* Address */}
                 <div className="flex items-start gap-4">
@@ -32,9 +32,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-bold text-lg mb-1">Our Address</h3>
                     <p className="text-gray-600">
-                      No. 28 Kodesoh Street,<br />
-                      Ikeja, Lagos State,<br />
-                      Nigeria
+                      No. 1 Conoil Filling Station, Opposite Barcode, Airport Road, Benin City, Edo State.
                     </p>
                   </div>
                 </div>
@@ -45,10 +43,9 @@ export default function ContactPage() {
                     <Phone className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-lg mb-1">Phone Numbers</h3>
+                    <h3 className="font-bold text-lg mb-1">Phone Number</h3>
                     <p className="text-gray-600">
-                      +234 906 536 9681<br />
-                      +234 802 819 7643
+                      +234 703 029 2729
                     </p>
                   </div>
                 </div>
@@ -94,7 +91,7 @@ export default function ContactPage() {
             {/* Contact Form */}
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-8">Send Us a Message</h2>
-              
+
               <form className="space-y-6">
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">

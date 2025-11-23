@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-4">About 1KShop.ng</h3>
             <p className="text-sm mb-4">
-              Your one-stop shop for quality fashion at unbeatable prices. 
+              Your one-stop shop for quality fashion at unbeatable prices.
               Every item ₦1,000. Top brands, latest styles.
             </p>
             <div className="flex gap-4">
@@ -87,8 +87,8 @@ export function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-4">Contact Info</h3>
             <ul className="space-y-2 text-sm">
-              <li>Lagos, Nigeria</li>
-              <li>Phone: +234 XXX XXX XXXX</li>
+              <li>No. 1 Conoil Filling Station, Opposite Barcode, Airport Road, Benin City, Edo State, Nigeria,</li>
+              <li>Phone: +234 703 029 2729</li>
               <li>Email: support@1kshopng.com</li>
               <li className="mt-4">
                 <span className="bg-primary text-primary-foreground px-3 py-1 rounded-full text-xs font-bold">
